@@ -6,7 +6,7 @@
 🎓 &nbsp;I am currently studying Computer Science and Mathematics at BSUIR University in Minsk.\
 🌱 &nbsp;I am going to learn more about web development and cloud architecture..\
 ✍️ &nbsp;In my free time, I develop my own Django projects.\
-💬 &nbsp;Feel free to email me xmixho@gmail.com! I will try to answer as soon as I can.\
+💬 &nbsp;Feel free to email me mayanyze@gmail.com! I will try to answer as soon as I can.\
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 

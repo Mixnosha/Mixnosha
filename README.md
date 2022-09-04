@@ -15,6 +15,7 @@
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-05122A?style=flat&logo=django&logo)&nbsp;
+![Vue](  https://img.shields.io/badge/-Vue-4fc08d?style=flat&logo=Vue.js&logoColor=fff)&nbsp;
 ![MySQL](https://img.shields.io/badge/-mysql-05122A?style=flat&logo=mysql)&nbsp;\
 ![Postgres](https://img.shields.io/badge/-postgres-05122A?style=flat&logo=postgresql)&nbsp;
 ![SQLite](https://img.shields.io/badge/-sqlite-05122A?style=flat&logo=sqlite)&nbsp;

@@ -20,7 +20,8 @@
 ![Postgres](https://img.shields.io/badge/-postgres-05122A?style=flat&logo=postgresql)&nbsp;
 ![SQLite](https://img.shields.io/badge/-sqlite-05122A?style=flat&logo=sqlite)&nbsp;
 ![Docker](https://img.shields.io/badge/-docker-05122A?style=flat&logo=docker)
-![Linux](https://img.shields.io/badge/Linux-05122A?style=flat&logo=linux&logoColor=black)\
+![Linux](https://img.shields.io/badge/Linux-05122A?style=flat&logo=linux&logoColor=black)
+![js](https://img.shields.io/badge/-JScript-yellow)\
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;

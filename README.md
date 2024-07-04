@@ -14,12 +14,12 @@
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Golang](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)&nbsp;
-![MySQL](https://img.shields.io/badge/-mysql-05122A?style=flat&logo=mysql)&nbsp;\
-![Postgres](https://img.shields.io/badge/-postgres-05122A?style=flat&logo=postgresql)&nbsp;
-![ScyllaDB](https://img.shields.io/badge/-sqlite-05122A?style=flat&logo=sqlite)&nbsp;
-![Docker](https://img.shields.io/badge/-docker-05122A?style=flat&logo=docker)&nbsp;/
+![MySQL](https://img.shields.io/badge/-Mysql-05122A?style=flat&logo=mysql)&nbsp;\
+![Postgres](https://img.shields.io/badge/-Postgres-05122A?style=flat&logo=postgresql)&nbsp;
+![ScyllaDB](https://img.shields.io/badge/-Scylladb-05122A?style=flat&logo=scylladb)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;\
 ![Linux](https://img.shields.io/badge/Linux-05122A?style=flat&logo=linux&logoColor=black)
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Blockchain](https://img.shields.io/badge/-Blockchain-05122A?style=flat&logo=blockchain)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;\
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 

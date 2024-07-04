@@ -40,15 +40,6 @@
 </a>
 </p>
 
-### 💰 &nbsp;Best Projects
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mixnosha&repo=Trello)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mixnosha&repo=YaSender)](https://github.com/anuraghazra/github-readme-stats)
-
-#### Codewars Statistics
-
-[![codewars](https://www.codewars.com/users/Mixno/badges/large)](https://www.codewars.com/users/Mixno) 
-
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">

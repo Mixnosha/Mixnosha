@@ -2,11 +2,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&color=F7F7F7&height=25&lines=Connecting+to+the+database+.+.+.)](https://git.io/typing-svg)
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I am currently studying Computer Science and Mathematics at BSUIR University in Minsk.\
-🌱 &nbsp;I am going to learn more about web development and cloud architecture..\
-✍️ &nbsp;In my free time, I develop my own Django projects.\
-💬 &nbsp;Feel free to email me mayanyze@gmail.com! I will try to answer as soon as I can.
+💡 &nbsp;Golang(Python) dev 2+ years of experience.\
+🎓 &nbsp;Blockchain development (Cosmos, Evm, Solana).\
+🌱 &nbsp;Microservices development\
+✍️ &nbsp;Architect db (scylladb, postgres).\
+💬 &nbsp;Other stack (redis, grpc, rabbitmq, python).
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 

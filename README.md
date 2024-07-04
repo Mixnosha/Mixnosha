@@ -17,7 +17,7 @@
 ![MySQL](https://img.shields.io/badge/-mysql-05122A?style=flat&logo=mysql)&nbsp;\
 ![Postgres](https://img.shields.io/badge/-postgres-05122A?style=flat&logo=postgresql)&nbsp;
 ![ScyllaDB](https://img.shields.io/badge/-sqlite-05122A?style=flat&logo=sqlite)&nbsp;
-![Docker](https://img.shields.io/badge/-docker-05122A?style=flat&logo=docker)
+![Docker](https://img.shields.io/badge/-docker-05122A?style=flat&logo=docker)&nbsp;/
 ![Linux](https://img.shields.io/badge/Linux-05122A?style=flat&logo=linux&logoColor=black)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;\

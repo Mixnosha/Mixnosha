@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&color=F7F7F7&height=25&lines=Connecting+to+the+database+.+.+.)](https://git.io/typing-svg)
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;Golang(Python) dev 2+ years of experience.\
+💡 &nbsp;Golang(Python) dev 3+ years of experience.\
 🎓 &nbsp;Blockchain development (Cosmos, Evm, Solana).\
 🌱 &nbsp;Microservices development\
 ✍️ &nbsp;Architect db (scylladb, postgres).\
